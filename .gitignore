@@ -76,6 +76,4 @@ $RECYCLE.BIN/
 taste
 
 # Testing specs and local script utilities
-/e2e/
-/playwright.config.ts
 /scripts/
