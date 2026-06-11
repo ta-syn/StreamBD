@@ -12,6 +12,9 @@
 
 # testing
 /coverage
+/test-results/
+/playwright-report/
+/blob-report/
 
 # next.js
 /.next/
@@ -39,3 +42,40 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+# IDEs and editors
+/.idea/
+/.vscode/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# eslint
+.eslintcache
+
+# Playwright cache
+.playwright/
+
+# OS specific files
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# Local Node history
+.node_repl_history
+
+# AI Agent Configs
+/AGENTS.md
+/CLAUDE.md
+
+# Command Code
+/.commandcode/
+taste
+
+# Testing specs and local script utilities
+/e2e/
+/playwright.config.ts
+/scripts/
