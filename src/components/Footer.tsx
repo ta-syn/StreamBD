@@ -143,7 +143,7 @@ export default function Footer({ channelCount, lastUpdatedMinutes }: FooterProps
             . All rights reserved.
           </span>
           <span>
-            Built with ❤️ by{" "}
+            Built with Passion by{" "}
             <span
               style={{
                 background: "linear-gradient(to right, #FF4D4D, #E50914, #FF007D)",

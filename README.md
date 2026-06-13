@@ -123,7 +123,7 @@ This application, including its source code, design layout styling, visual brand
 
 ---
 
-## 🇧🇩 Designed & Crafted with ❤️ by Ta-syn Islam in Bangladesh
+## 🇧🇩 Designed & Crafted with Passion by Ta-syn Islam in Bangladesh
 
 > [!WARNING]
 > StreamBD does not host any stream or video files. All links are sourced from publicly available lists on the web. We are not responsible for the contents of external IPTV channels.
